@@ -19,8 +19,7 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index.js",
-    "vercel-build": "echo hello"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Abiola Olamilekan",
